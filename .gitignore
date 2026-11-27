@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Firmware images and dumps - do not publish
+*.chp
+*.hex
+*.bin
+*.7z
+
+# Local scratch file with absolute paths
+diff3975.py
